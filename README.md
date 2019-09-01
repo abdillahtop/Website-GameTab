@@ -31,7 +31,7 @@ ibrary is a website for borrowing books, where only members in this library can 
 ## Usage For Development
 1. Open your terminal
 2. Copy and Paste here `git clone https://github.com/abdillahtop/Website-GameTab.git`
-3. cd `Website-GameTabr` type `npm install` for install dependencies
+3. cd `Website-GameTab` type `npm install` for install dependencies
 4. type `npm start` fork run aplikasi.
 
 ## Screenshots
@@ -41,7 +41,7 @@ ibrary is a website for borrowing books, where only members in this library can 
 
 
 ## Deploy Website
-<a href="https://abdi-fedlibrary.netlify.com/">
+<a href="https://gametab.netlify.com/">
   <img src="https://img.shields.io/badge/deploy-netlify-blue"/>
 </a>
 
